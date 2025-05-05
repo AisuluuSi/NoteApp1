@@ -21,8 +21,7 @@
         android:background="@android:color/transparent"
         app:tabIndicatorColor="#D88B02"
         app:tabSelectedTextColor="#D88B02"
-        app:tabIndicatorHeight="0dp"
-        app:tabSelectedTextStyle="bold" />
+        app:tabIndicatorHeight="0dp" />
 
     <TextView
         android:id="@+id/txt_skip"
